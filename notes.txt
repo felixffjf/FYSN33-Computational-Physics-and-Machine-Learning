@@ -1,0 +1,5 @@
+keff small f range: 0.009946409533269166, theoretical spring constant: 0.01
+keff smedium f range: 0.009946409533269166, theoretical spring constant: 0.01
+
+
+
